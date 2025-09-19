@@ -29,8 +29,8 @@
   <br/>
 </p>
 <div>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Nevereverland21&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Nevereverland21's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevereverland21&layout=compact&theme=radical&hide_border=false&hide=css,html&langs_count=8" alt="Top Languages">
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=Nevereverland21&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Nevereverland21's GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevereverland21&layout=compact&theme=radical&hide_border=false&hide=css,html&langs_count=8" alt="Top Languages">
 </div>
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nevereverland21&theme=radical" alt="GitHub Streak" /></a>
