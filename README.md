@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am funny😅**
 - ⚡ Fun fact **I am funny😅**
 
-<h2 align="center">Ｔｅｃｈｎｏｌｏｇｙ Ｓｔａｃｋ <img src="images/stack.gif" height="30"></h2>
+<h2 align="center">Ｔｅｃｈｎｏｌｏｇｙ Ｓｔａｃｋ <img src="images/stack2.gif" height="30"></h2>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="55" height="55" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" /></div>
 
@@ -33,16 +33,19 @@
 <h2 align="center">Ｃｏｎｔａｃｔ <img src="images/loli.gif" height="30"></h2>
 
 <div>
-  <a href="https://www.linkedin.com/in/johnggli" target="_blank">
+  <a href="https://www.linkedin.com/in/jesusegusquizaore/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/johnggli" target="_blank">
+  <a href="https://www.facebook.com/ElGranEgus.15/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/egus_kun/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discord.gg/johnggli" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Nevereverland21-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="mailto:john.carv.sousa@gmail.com" target="_blank">
+  <a href="mailto:elegus.15@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
