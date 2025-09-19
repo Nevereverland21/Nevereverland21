@@ -1,7 +1,7 @@
 ![logo](images/logoGithub.png)
 
 
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Jesus Egusquiza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" alt="coding" width="400" src="images/info2.gif">
 
