@@ -10,7 +10,7 @@
 - 💼 Working on various personal and collaborative projects.
 - 🌐 Exploring new technologies and tools for web development and IA development.
 - 💭 Currently learning about Computer Graphics!
-- 🎮 My hobies are playing video games (![OSU](https://osu.ppy.sh/users/31149952) lover), watching anime, and exercising
+- 🎮 My hobies are playing video games, my favorite is [OSU](https://osu.ppy.sh/users/31149952), watching anime, and exercising
 - ⚡ Fun fact: I like eating pizza and I play the drums
 
 
