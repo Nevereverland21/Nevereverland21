@@ -5,11 +5,15 @@
 
 <img align="right" alt="coding" width="400" src="images/info2.gif">
 
-- 🎓 Studing Computer Science at the University of [UTEC](https://utec.edu.pe/), Peru
-- 💻 Fullstack developer
+- 👩🏻‍🎓 Studing Computer Science at the University of [UTEC](https://utec.edu.pe/), Peru
+- 💻 Fullstack developer junior
 - 💼 Working on various personal and collaborative projects.
-- 
-- ⚡ Fun fact **I am funny😅**
+- 🌐 Exploring new technologies and tools for web development and IA development.
+- 💭 Currently learning about Computer Graphics!
+- 🎮 My hobies are playing video games (![OSU](https://osu.ppy.sh/users/31149952) lover), watching anime, and exercising
+- ⚡ Fun fact: I like eating pizza and I play the drums
+
+
 
 - ⚡ Fun fact **I am funny😅**
 
