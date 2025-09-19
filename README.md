@@ -20,7 +20,7 @@
 
 <h2 align="center">Ｔｅｃｈｎｏｌｏｇｙ Ｓｔａｃｋ <img src="images/stack.gif" height="30"></h2>
 
-<h2>𝑆𝑡𝑎𝑡𝑠</h2>
+<h2 align="center">Ｓｔａｔｓ <img src="images/anime-icegif-2.gif" height="30"></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nevereverland21&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Nevereverland21's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevereverland21&layout=compact&theme=radical&hide_border=false&card_width=320" alt="Top Languages" />
