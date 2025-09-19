@@ -21,4 +21,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevereverland21&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
   <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Nevereverland21&theme=radical&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=Nevereverland21&theme=radical&hide_border=false)" alt="GitHub Streak" />
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nevereverland21&theme=radical&hide_border=false" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nevereverland21&theme=radical" alt="GitHub Streak" /></a>
