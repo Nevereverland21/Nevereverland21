@@ -16,13 +16,6 @@
 
 
 
-
-
-
-
-
-
-
 <br/>
 <h2 align="center">Ｔｅｃｈｎｏｌｏｇｙ Ｓｔａｃｋ <img src="images/stack2.gif" height="30"></h2>
 
