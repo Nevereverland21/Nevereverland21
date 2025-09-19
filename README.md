@@ -29,3 +29,20 @@
   <br/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nevereverland21&theme=radical" alt="GitHub Streak" /></a>
 </p>
+
+<h2 align="center">Ｃｏｎｔａｃｔ <img src="images/anime-icegif-2.gif" height="30"></h2>
+
+<div>
+  <a href="https://www.linkedin.com/in/johnggli" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/johnggli" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/johnggli" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:john.carv.sousa@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
