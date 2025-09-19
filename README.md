@@ -4,6 +4,7 @@
 ## Hi there 👋
 
 <img align="right" alt="coding" width="400" src="images/info2.gif">
+
 - 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
 
 - ⚡ Fun fact **I am funny😅**
