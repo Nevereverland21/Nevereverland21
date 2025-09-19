@@ -11,16 +11,7 @@
 - 🌐 Exploring new technologies and tools for web development and IA development.
 - 💭 Currently learning about Computer Graphics!
 - 🎮 My hobies are playing video games, my favorite is [OSU](https://osu.ppy.sh/users/31149952), watching anime, and exercising
-- ⚡ Fun fact: I like eating pizza and I play the drums
-
-
-
-- ⚡ Fun fact **I am funny😅**
-
-- ⚡ Fun fact **I am funny😅**
-- ⚡ Fun fact **I am funny😅**
-- ⚡ Fun fact **I am funny😅**
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact: I like eating MAKIS 🍣 and I play the drums 🥁
 
 <h2 align="center">Ｔｅｃｈｎｏｌｏｇｙ Ｓｔａｃｋ <img src="images/stack2.gif" height="30"></h2>
 
