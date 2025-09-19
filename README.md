@@ -30,7 +30,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nevereverland21&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
-<h2 align="center">Ｃｏｎｔａｃｔ <img src="images/anime-icegif-2.gif" height="30"></h2>
+<h2 align="center">Ｃｏｎｔａｃｔ <img src="images/loli.gif" height="30"></h2>
 
 <div>
   <a href="https://www.linkedin.com/in/johnggli" target="_blank">
