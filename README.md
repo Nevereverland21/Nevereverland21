@@ -9,6 +9,11 @@
 
 - ⚡ Fun fact **I am funny😅**
 
+- ⚡ Fun fact **I am funny😅**
+
+- ⚡ Fun fact **I am funny😅**
+
+- ⚡ Fun fact **I am funny😅**
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=Nevereverland21&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
