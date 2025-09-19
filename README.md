@@ -42,9 +42,9 @@
   <a href="https://www.instagram.com/egus_kun/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <p href="#" target="_blank">
+  <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Discord-Nevereverland21-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </p>
+  </a>
   <a href="mailto:elegus.15@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
