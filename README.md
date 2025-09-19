@@ -8,7 +8,13 @@
 - 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
 
 - ⚡ Fun fact **I am funny😅**
+
+
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=Nevereverland21&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 <!--
+
 **Nevereverland21/Nevereverland21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
