@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am funny😅**
 - ⚡ Fun fact **I am funny😅**
 
-<h2 align="center">Technology Stack <img src="images/stack.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="images/stack.gif" height="30"></h2>
 
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 <p align="center">
