@@ -23,7 +23,7 @@
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nevereverland21&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Nevereverland21's GitHub Stats" />
-  <p>
+  <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevereverland21&layout=compact&theme=radical&hide_border=false&card_width=320" alt="Top Languages" />
   </p>
   <br/>
